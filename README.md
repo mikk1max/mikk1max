@@ -4,7 +4,7 @@
 As a software engineering student, I am driven by my passion for transforming innovative ideas into reality through elegant interfaces. I enjoy the challenge of designing and developing solutions that enhance user experiences. 
 <p align="center">
   <a href="https://github.com/mikk1max">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,figma,postman,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,mongodb,github,tailwind,docker,vite,vscode,figma" />
   </a>
 </p>
 <p align="center">
