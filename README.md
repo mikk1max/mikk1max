@@ -1,6 +1,8 @@
 ## < 👋 Hello,  World!  / >
 
 
+  
+
 As a software engineering student, I am driven by my passion for transforming innovative ideas into reality through elegant interfaces. I enjoy the challenge of designing and developing solutions that enhance user experiences. 
 <p align="center">
   <a href="https://github.com/mikk1max">
@@ -16,7 +18,10 @@ As a software engineering student, I am driven by my passion for transforming in
   </a>
 </p>
 
-
-
-
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mikk1max&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mikk1max"
+  width="100%"
+  height="300"
+/>
+</a>
