@@ -6,22 +6,23 @@
 As a software engineering student, I am driven by my passion for transforming innovative ideas into reality through elegant interfaces. I enjoy the challenge of designing and developing solutions that enhance user experiences. 
 <p align="center">
   <a href="https://github.com/mikk1max">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,mongodb,github,tailwind,docker,vite,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,mongodb,github,tailwind,docker,vite,vscode,figma,postman" />
   </a>
 </p>
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://github.com/mikk1max">
     <img src="https://github-readme-stats.vercel.app/api?username=mikk1max&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="400" height="200" />
   </a>
   <a href="https://github.com/mikk1max">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikk1max&layout=compact&theme=chartreuse-dark&langs_count=8" alt="Top Languages" width="400" height="200" />
   </a>
-</p>
+</p> -->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mikk1max&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/mikk1max"
   width="100%"
-  height="300"
+  height="auto"
 />
 </a>
